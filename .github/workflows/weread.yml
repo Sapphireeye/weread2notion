@@ -1,4 +1,3 @@
-runs-on: ubuntu-latest
 name: weread sync
 
 on:
